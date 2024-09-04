@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch10_stackLinklist/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch1_Cons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch2_basics/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch3_option/use_option" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch4_TLinklist/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch5_Iterator/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch6_ShareLinklist/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch7_DoubleLinklist/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch8_unsafeQuene/list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ch9_Dquene/list" vcs="Git" />
+  </component>
+</project>
